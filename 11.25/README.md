@@ -8,8 +8,6 @@
 
 <img src="1.jpg" width="400px;"/>
 
-![](1.jpg)
-
 ### 协同干扰对检测器性能影响
 
 * 干燥比：
@@ -31,9 +29,9 @@
 
 * 间歇采样重复转发协同干扰周期
 
-单干扰机对CA-CFAR检测概率的影响
+单干扰机对CA-CFAR检测概率的影响                             单干扰机对OS-CFAR检测概率的影响 
 
-<img src="4.jpg" width="400px;"/>
+<img src="4.jpg" width="400px;"/>                         <img src="5.jpg" width="400px;"/>
 
 单干扰机对OS-CFAR检测概率的影响 
 
