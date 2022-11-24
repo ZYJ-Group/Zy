@@ -12,7 +12,7 @@
 
 * 干燥比：
 
-<img src="干燥比.jpg" width="400px;"/>
+<img src="干燥比.jpg" width="600px;"/>
 
 
 ### 不同干扰方式的脉压增益计算方式如下
@@ -29,9 +29,9 @@
 
 * 间歇采样重复转发协同干扰周期
 
-单干扰机对CA-CFAR检测概率的影响                             单干扰机对OS-CFAR检测概率的影响 
+单干扰机对CA-CFAR检测概率的影响                              
 
-<img src="4.jpg" width="400px;"/>                         <img src="5.jpg" width="400px;"/>
+<img src="4.jpg" width="400px;"/>                  
 
 单干扰机对OS-CFAR检测概率的影响 
 
