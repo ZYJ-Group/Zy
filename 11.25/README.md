@@ -6,7 +6,7 @@
 
 * 无干扰时雷达采用不同检测处理检测概率随距离变化
 
-<img src="1.jpg" style="zoom: 33%;">
+<img src="1.jpg" width="200px;"/>
 
 ![](1.jpg)
 
