@@ -21,11 +21,11 @@
 
 * 噪声调频功率协同干扰
 
-<img src="2.jpg" width="400px;"/>
+<img src="2.jpg" width="800px;"/>
 
 * 灵巧噪声卷积功率协同干扰
 
-<img src="3.jpg" width="400px;"/>
+<img src="3.jpg" width="800px;"/>
 
 * 间歇采样重复转发协同干扰周期
 
