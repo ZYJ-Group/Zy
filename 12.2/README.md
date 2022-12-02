@@ -23,7 +23,7 @@ CFAR检测器类型：平均单元CA-CFAR、选小SO-CFAR、选大GO-CFAR、有�
 
   ![](6.jpg)
 
-  [参考文献1]( [(8条消息) [统计信号处理检测理论：CFAR检测]_大白菜菜籽的博客-CSDN博客_cfar](https://blog.csdn.net/weixin_42686221/article/details/124915956) )
+  [参考文献1](https://blog.csdn.net/weixin_42686221/article/details/124915956)
 
   [参考文献2](https://github.com/flappyimi/Radar-Basic-Algorithm/blob/master/EchoProcess/CFAR.m)
 
