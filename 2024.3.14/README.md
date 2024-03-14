@@ -1,14 +1,17 @@
 ## 周报
 
-###  1. 论文意见修改
+### 论文意见修改
 
-* 模型参数大小：反应模型所占内存大小
+#### 1. 复杂度指标
 
-* FLOPs(floating point operations，浮点运算量),反应模型前向转播时所需的计算力
+* Parameters：体现模型参数的大小
+* FLOPs（floating point of operations，浮点计算数）：体现模型前向转播时所需的计算量
 
-* 比较实验: 1.TimesNet (2023 ICLR)
-  
-            2.ETSformer (2022 ICML)
-  
-            3.
+一般来说，参数量越小，FLOPs越小，对硬件的显存和算力要求越低，说明方法的复杂度低。
 
+#### 2. 对比实验
+
+* U2Net （ 2020 CVPR）
+
+* ETSfoemer（2022 ICML）
+* TimesNet （2023 ICLR）
