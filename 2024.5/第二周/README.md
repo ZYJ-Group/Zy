@@ -1,4 +1,6 @@
-## <center>学术报告</center>
+<div align='center'>
+  <font size='70'> 学术汇报</font>
+</div>
 
 ### 汇报题目： 雷达信号识别与捷变相参干扰抑制技术研究  汇报人：清华大学 郎平
 
